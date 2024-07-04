@@ -206,7 +206,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : @Varagi_shiv {file_name}
+    CAPTION = """<b>📂File Name  : @Varagi_shiv {file_name}
 
 <b> Size ⚙️: {file_size}</b>""" 
 
@@ -681,13 +681,13 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/Varagi_shiv'>VJ</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/Varagi_shiv'>VS</a>
 
--Dev 2 <a href='https://t.me/findfiles25'>VJ</a>
+-Dev 2 <a href='https://t.me/Varagi_shiv'>VS</a>
 
--Dev 3 <a href='https://t.me/findfiles25'>VJ Botz</a>
+-Dev 3 <a href='https://t.me/Varagi_shiv'>VS MOVIES</a>
 
-- Dev 4 <a href='https://t.me/findfiles25'>TEAM VJ</a>
+- Dev 4 <a href='https://t.me/Varagi_shiv'>TEAM VS</a>
 """
 
     RENAME_TXT = """
